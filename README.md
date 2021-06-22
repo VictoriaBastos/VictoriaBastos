@@ -1,4 +1,33 @@
-### Hi there 👋
+# Hello World, I'm Victoria 🙌
+
+######I'm studying Frontend development with Alura.
+######🎥 From movies scripts to script.js, I have a background in audiovisual.
+######💻 Looking forwards to find my first job in tecnology!
+
+
+## Goals for 2021
+
+:dart: ######Build 3 Static Websites 
+       Landing pages + Crowdfunding product page
+       
+:dart: ######Build 1 game using JavaScript
+
+:dart: ######Weather site using API
+
+:dart: ######Develop 1 React Project
+       E-commerce (:question:)
+       
+######U+1F6FC MORE!
+
+##:coffee: ☕ Wanna chat? 
+ Discord
+ Telegram
+ victoria.rezbastos@gmail.com
+ 
+## 📖 More about me...
+LinkedIn 
+
+
 
 <!--
 **VictoriaBastos/VictoriaBastos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

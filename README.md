@@ -1,7 +1,7 @@
 Hello World, I'm Victoria 🙌
 
 I'm studying Frontend development with Alura.
-\n🎥 From movies scripts to script.js, I have a background in audiovisual.
+🎥 From movies scripts to script.js, I have a background in audiovisual.
 💻 Looking forwards to find my first job in tecnology!
 
 

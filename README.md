@@ -1,30 +1,29 @@
-# Hello World, I'm Victoria 🙌
+Hello World, I'm Victoria 🙌
 
-######I'm studying Frontend development with Alura.
-######🎥 From movies scripts to script.js, I have a background in audiovisual.
-######💻 Looking forwards to find my first job in tecnology!
+I'm studying Frontend development with Alura.
+/n🎥 From movies scripts to script.js, I have a background in audiovisual.
+💻 Looking forwards to find my first job in tecnology!
 
 
-## Goals for 2021
+Goals for 2021
 
-:dart: ######Build 3 Static Websites 
+:dart: Build 3 Static Websites 
        Landing pages + Crowdfunding product page
        
-:dart: ######Build 1 game using JavaScript
+:dart: Build 1 game using JavaScript
 
-:dart: ######Weather site using API
+:dart: Weather site using API
 
-:dart: ######Develop 1 React Project
-       E-commerce (:question:)
+:dart: Develop 1 React Project (:question:)
        
-######U+1F6FC MORE!
+U+1F6FC MORE!
 
 ##:coffee: ☕ Wanna chat? 
  Discord
  Telegram
  victoria.rezbastos@gmail.com
  
-## 📖 More about me...
+📖 More about me...
 LinkedIn 
 
 

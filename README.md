@@ -1,20 +1,19 @@
 Hello World, I'm Victoria 🙌
 
-I'm studying Frontend development with Alura.
+I'm studying Frontend development.
 🎥 From movies scripts to script.js, I have a background in audiovisual.
 💻 Looking forwards to find my first job in tecnology!
 
 
 Goals for 2021
 
-:dart: Build 3 Static Websites 
+:dart: Build 2 Static Websites 
        Landing pages + Crowdfunding product page
        
 :dart: Build 1 game using JavaScript
 
 :dart: Weather site using API
 
-:dart: Develop 1 React Project (:question:)
        
 U+1F6FC MORE!
 

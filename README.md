@@ -22,9 +22,9 @@
 :dart: Weather site using API
 
        
-U+1F6FC MORE!
+##### (U+1F6FC) MORE!
 
-##:coffee: ☕ Wanna chat? victoria.rezbastos@gmail.com
+:coffee: ☕ Wanna chat? victoria.rezbastos@gmail.com
  
 👩🏾 More about me...
 LinkedIn 

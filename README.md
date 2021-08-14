@@ -1,8 +1,9 @@
-Hello World, I'm Victoria 🙌
+### Hello World, I'm Victoria 🙌
 
-I'm studying Frontend development.
-🎥 From movies scripts to script.js, I have a background in audiovisual.
-💻 Looking forwards to find my first job in tecnology!
+💻 I'm studying Back-end development at {reprograma}.  
+🎥 From movies scripts to script.js, I have a background in audiovisual.  
+🔎 Looking forwards to finding my first job in technology!  
+ 
 
 
 Goals for 2021

@@ -7,12 +7,12 @@
  <div>
   <a href="https://github.com/VictoriaBastos"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictoriaBastos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaBastos&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaBastos&layout=compact&langs_count=4&theme=radical"/>
 </div>
 
 <div>
     
-## Goals for 2021
+#### Goals for 2021
 
 :dart: Build 2 Static Websites 
        Landing pages + Crowdfunding product page
@@ -24,10 +24,7 @@
        
 U+1F6FC MORE!
 
-##:coffee: ☕ Wanna chat? 
- Discord
- Telegram
- 📥 victoria.rezbastos@gmail.com
+##:coffee: ☕ Wanna chat? victoria.rezbastos@gmail.com
  
 👩🏾 More about me...
 LinkedIn 
